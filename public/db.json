@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "text": "The beginning of screenless design: UI jobs to be taken over by Solution Architect",
+    "date": "May 21, 2020",
+    "favourite": true,
+    "color": "#8ae08a"
+  },
+  {
+    "id": 1,
+    "text": "13 Things You Should Give Up If You Want To Be A Successful UX Designer",
+    "date": "May 25, 2020",
+    "favourite": false,
+    "color": "#e1d87b"
+  },
+  {
+    "id": 2,
+    "text": "The Psychology Principles Every UI/UX Designer Needs To Know",
+    "date": "Jun. 5, 2020",
+    "favourite": true,
+    "color": "#8ecbe0"
+  },
+  {
+    "id": 3,
+    "text": "10 UX/UI Lessons from Designing My Own Product",
+    "date": "Jun. 10, 2020",
+    "favourite": false,
+    "color": "#a98ee0"
+  }
+]
